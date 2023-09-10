@@ -1,3 +1,3 @@
 Link to TXT/mylog.txt: https://github.com/johaneswisa/os232/blob/main/TXT/mylog.txt
-Link to GitHub: https://github.com
-Link to LINKS/: https://github.com/johaneswisa/os232/blob/main/links.md
+\nLink to GitHub: https://github.com
+\nLink to LINKS/: https://github.com/johaneswisa/os232/blob/main/links.md
