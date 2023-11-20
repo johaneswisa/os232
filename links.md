@@ -11,4 +11,5 @@ Link to learn about basic Linux commands.
 * [Linux Crash Course - Easy Terminal Commands for Inspecting Hardware](https://www.youtube.com/watch?v=oGyJr-iUwt8) --- In case you need to inspect hardware.
 * [Linux in 100 Seconds](https://www.youtube.com/watch?v=rrB13utjYV4) --- A bite-sized video as an introduction to Linux.
 * [ChatGPT](https://chat.openai.com/) --- It's a powerful learning tool.
-* [OS Playlist](https://www.youtube.com/watch?v=vBURTt97EkA&list=PLBlnK6fEyqRiVhbXDGLXDk_OQAeuVcp2O) --- Playlist for OS.     
+* [OS Playlist](https://www.youtube.com/watch?v=vBURTt97EkA&list=PLBlnK6fEyqRiVhbXDGLXDk_OQAeuVcp2O) --- Playlist for OS.
+* [Bash in 100 Seconds](https://www.youtube.com/watch?v=I4EWvMFj37g&pp=ygUFbGludXg%3D) --- Bash Introduction     
